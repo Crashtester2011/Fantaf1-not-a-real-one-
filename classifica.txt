@@ -1,14 +1,14 @@
  FantaF1
 Classifica:
+
 1)Marco[156]:
-
 Norris, Hadjar, Antonelli, Sainz, Bearman
+
 2)Alessandro[111]:
+Verstappen, Hamilton, Gasly, Lindblad, Colapinto
 
-Verstappen, Hamilton, Gasly, Lindblad, Colapinto,
 3)Lorenzo[96]:
-
 Leclerc, Bortoleto, Alonso, Russel, Lawson
-4)Francesco[-63]:
 
+4)Francesco[-63]:
 Piastri, Albon, Perez, Ocon, Bottas
