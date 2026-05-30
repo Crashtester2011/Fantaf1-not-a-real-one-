@@ -2,18 +2,18 @@
 FantaF1
 Classifica:
 
-1)Marco[198]:
+1)Marco[307]:
 Norris, Hadjar, Antonelli, Sainz, Bearman
 
-2)Lorenzo[175]:
-Leclerc, Bortoleto, Alonso, Russel, Lawson
-
-3)Alessandro[155]:
+2)Alessandro[214]:
 Verstappen, Hamilton, Gasly, Lindblad, Colapinto
 
-4)Francesco[7]:
+3)Lorenzo[197]:
+Leclerc, Bortoleto, Alonso, Russel, Lawson
+
+4)Francesco[40]:
 Piastri, Albon, Perez, Ocon, Bottas
 
-ULTIMO AGGIORNAMENTO: GIAPPONE
-PROSSIMO AGGIORNAMENTO: MIAMI
-PROSSIMO GRAN PREMIO: CANADA
+ULTIMO AGGIORNAMENTO: MIAMI
+PROSSIMO AGGIORNAMENTO: CANADA
+PROSSIMO GRAN PREMIO: MONACO
