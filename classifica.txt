@@ -2,17 +2,18 @@
 FantaF1
 Classifica:
 
-1)Marco[359]:
-Norris, Hadjar, Antonelli, Sainz, Bearman
 
-2)Alessandro[325]:
+1)Alessandro[378]:
 Verstappen, Hamilton, Gasly, Lindblad, Colapinto
 
-3)Lorenzo[182]:
+2)Marco[373]:
+Norris, Hadjar, Antonelli, Sainz, Bearman
+
+3)Lorenzo[205]:
 Leclerc, Bortoleto, Alonso, Russel, Lawson
 
-4)Francesco[-2]:
+4)Francesco[50]:
 Piastri, Albon, Perez, Ocon, Bottas
 
 ULTIMO AGGIORNAMENTO:
-04/06/26 ore 16:15
+24/06/26 ore 20:00
