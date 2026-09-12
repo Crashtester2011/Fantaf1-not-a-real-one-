@@ -3,19 +3,19 @@ FantaF1
 Classifica:
 
 
-1)Marco[735]:
+1)Marco[877]:
 Norris, Hadjar, Antonelli, Sainz, Bearman, Lawson*
 
-2)Alessandro[697]:
+2)Alessandro[787]:
 Verstappen, Hamilton, Gasly, Lindblad, Colapinto
 
-3)Lorenzo[659]:
+3)Lorenzo[651]:
 Leclerc, Bortoleto, Alonso, Russel, Lawson
 
-4)Francesco[-55]:
+4)Francesco[-52]:
 Piastri, Albon, Perez, Ocon, Bottas
 
 ULTIMO AGGIORNAMENTO:
-31/08/2026 ore 13:03
-Zandvoort
-*sostituto di Hadjar nel round 12
+12/09/2026 ore 12:52
+Monza
+*sostituto di Hadjar nel round 12,13
